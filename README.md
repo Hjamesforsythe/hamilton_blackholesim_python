@@ -59,3 +59,7 @@ python blackhole_3d.py
 - Python 3.11+
 - NumPy, SciPy, PyOpenGL, GLFW
 - OpenGL 4.3+ (for 3D simulation compute shaders)
+
+## Resources
+Largely inspired by https://github.com/kavan010/black_hole
+With resources from https://www.youtube.com/@GetIntoGameDev
